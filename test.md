@@ -1,7 +1,4 @@
 ## Welcome to GitHub Pages
-layout: page
-title: "test"
-permalink: /test/
 
 # Simple Torch
 `implement by numpy`
