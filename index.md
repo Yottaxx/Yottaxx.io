@@ -5,6 +5,9 @@ You can use the [editor on GitHub](https://github.com/Yottaxx/Yottaxx.io/edit/ma
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+You can use the [go to test](https://yottaxx.github.io/Yottaxx.io/test
+) to maintain and preview the content for your website in Markdown files.
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
